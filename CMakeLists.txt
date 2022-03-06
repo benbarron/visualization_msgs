@@ -19,6 +19,7 @@ find_package(std_msgs REQUIRED)
 
 set(msg_files
   "msg/ImageMarker.msg"
+  "msg/ImageMarkerArray.msg"
   "msg/InteractiveMarker.msg"
   "msg/InteractiveMarkerControl.msg"
   "msg/InteractiveMarkerFeedback.msg"
