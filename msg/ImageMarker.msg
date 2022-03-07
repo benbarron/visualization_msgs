@@ -8,8 +8,6 @@ int32 ADD=0
 int32 REMOVE=1
 int32 TEXT=5
 
-string text
-
 std_msgs/Header header
 # Namespace which is used with the id to form a unique id.
 string ns
@@ -37,3 +35,6 @@ builtin_interfaces/Duration lifetime
 geometry_msgs/Point[] points
 # The color for each line, point, etc. in the points field.
 std_msgs/ColorRGBA[] outline_colors
+
+string text
+
