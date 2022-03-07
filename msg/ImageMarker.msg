@@ -36,5 +36,5 @@ geometry_msgs/Point[] points
 # The color for each line, point, etc. in the points field.
 std_msgs/ColorRGBA[] outline_colors
 
-string text
+std_msgs/String text
 
