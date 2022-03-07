@@ -1,1 +1,1 @@
-visualization_msgs/ImageMarker markers
+visualization_msgs/ImageMarker[] markers
