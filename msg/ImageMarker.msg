@@ -7,8 +7,6 @@ int32 POINTS=4
 int32 ADD=0
 int32 REMOVE=1
 
-string TEXT
-
 std_msgs/Header header
 # Namespace which is used with the id to form a unique id.
 string ns
